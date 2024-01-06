@@ -14,6 +14,10 @@ public class TestDemo {
 		System.out.println("this one is for test");
 	}
 	//break in ten mins
+	//new method
+	public void myName() {
+		System.out.println("my name is Mebrat");
+	}
 	
 	
 }
